@@ -87,7 +87,7 @@ export function CartContextProvid({ children }) {
       shippingAddress: data,
     };
     return axios.post(
-      `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}?`,
+      `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}?url='https://amrafify.github.io/shop/#/'`,
       body,
       option
     );
