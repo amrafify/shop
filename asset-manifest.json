@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop/static/css/main.44e046a2.css",
-    "main.js": "/shop/static/js/main.01d36307.js",
+    "main.js": "/shop/static/js/main.096cfd35.js",
     "static/media/fa-solid-900.ttf": "/shop/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/grocery-banner.png": "/shop/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
     "static/media/fa-brands-400.ttf": "/shop/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -17,10 +17,10 @@
     "static/media/fa-v4compatibility.woff2": "/shop/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/shop/index.html",
     "main.44e046a2.css.map": "/shop/static/css/main.44e046a2.css.map",
-    "main.01d36307.js.map": "/shop/static/js/main.01d36307.js.map"
+    "main.096cfd35.js.map": "/shop/static/js/main.096cfd35.js.map"
   },
   "entrypoints": [
     "static/css/main.44e046a2.css",
-    "static/js/main.01d36307.js"
+    "static/js/main.096cfd35.js"
   ]
 }
